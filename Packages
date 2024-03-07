@@ -2,14 +2,14 @@ Package: MEMEQUIZ
 Version: 0.1.1beta
 Architecture: iphoneos-arm
 Maintainer: GoatandFox
-Filename: ./debs/catmeme0.1.1.deb
-Size: 4871450
-MD5sum: 08222a80ee1c734061f005dc91fe4a60
-SHA1: 708868ea926573d1c465d570bdc0d2be2160d1a0
-SHA256: 03c96009bb9d9c4a3bfba55e40afbe45ec66b19d81fe57d1c4ac34fd7874c8c4
+Filename: ./debs/catmeme0.1.1beta.deb
+Size: 4871694
+MD5sum: c0a60dd5f4e7d704a9a1128a25053ec9
+SHA1: d91b6a981b2682f9cece46cbe7fbef0fb7955a60
+SHA256: 57fc86463b73bfb22e61118d09554db1c70901af569212849410ec2b1164215f
 Section: Games
 Homepage: https://daikichi7778.github.io/goatandfoxrepo/index.html
-Description: 猫ミームクイズ アップデート内容iPhoneSE向けに改良
+Description: 猫ミームクイズ アップデート内容iPhoneSE向けに改良 .DS_storeの消去
 Icon: file:///Applications/Cat\ MEME\ QUIZ.app/AssetData/icon.png
 Name: 猫ミームクイズ
 
