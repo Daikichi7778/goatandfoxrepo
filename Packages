@@ -13,3 +13,18 @@ Description: 猫ミームクイズ アップデート内容iPhoneSE向けに改�
 Icon: file:///Applications/Cat\ MEME\ QUIZ.app/AssetData/icon.png
 Name: 猫ミームクイズ
 
+Package: com.coolbooter.coolbooter
+Version: 1.0.1-release
+Architecture: iphoneos-arm
+Maintainer: CoolBooter <coolbooterios@gmail.com>
+Depends: xpwn, zip, unzip, ldid, diskdev-cmds, firmware (>= 7.0)
+Filename: ./debs/com.coolbooter.coolbooter-1.0.1-release.deb
+Size: 16692788
+MD5sum: c37e41fac0da79da717c2eb0537798fe
+SHA1: ebf02e1c2a72840807c6947e06f5affa7fbbabfe
+SHA256: da156448b8725b66fd8d3825d9ba0c716d86e28d8f57a2e91d873df52e333804
+Section: System
+Description: CoolBooter is an all-in-one dual booting utility for jailbroken 32 bit iOS devices.
+Author: CoolBooter <coolbooterios@gmail.com>
+Name: CoolBooter
+
