@@ -1,6 +1,6 @@
-# Happy Remake Apps Repository
+# Goat and Fox Repository
 
-サポートしているパッケージマネージャー
+対応しているパッケージマネージャー
 
 Cydia Sileo Zebra Installer
 
